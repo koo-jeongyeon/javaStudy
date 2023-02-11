@@ -1,9 +1,5 @@
 package generics.ch3;
 
-import generics.*;
-import generics.ch1.Fruit;
-import generics.ch1.FruitBox;
-
 public class Juicer {
 
     /**
